@@ -14,7 +14,7 @@ $ wget https://pjreddie.com/media/files/yolov3.weights
 ```
 ## Download the coco-name and colo-name file here Or Just run this
 ```sh
-git clone https://github.com/pjreddie/darknet
+$ git clone https://github.com/pjreddie/darknet
 ```
 - coco-name location:- darknet/data/coco.names
 - yolov3.cfg location:- darknet/cfg/yolov3.cfg
