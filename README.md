@@ -28,6 +28,10 @@ $ python3 yolo_video.py -i o
 ```sh
 $ python3 yolo_video.py -i rtsp://192.168.43.102:7878/h264_ulaw.sdp
 ```
+# For live stream by url Just run this
+```sh
+$ python3 yolo_video.py -i http://192.168.43.102:7878/video?x.mjpg
+```
 ### output
 [![N|Solid](https://drive.google.com/uc?id=1bJaqu9NsLw87E64Gqxyh69Mu8S_QY23-)]
 # For Video file
