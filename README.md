@@ -33,7 +33,8 @@ $ python3 yolo_video.py -i rtsp://192.168.43.102:7878/h264_ulaw.sdp
 $ python3 yolo_video.py -i http://192.168.43.102:7878/video?x.mjpg
 ```
 ### output
-[![N|Solid](https://drive.google.com/uc?id=1bJaqu9NsLw87E64Gqxyh69Mu8S_QY23-)]
+<img src="https://drive.google.com/uc?id=1bJaqu9NsLw87E64Gqxyh69Mu8S_QY23-" alt="alt text" width="1216" height="491"/>
+
 # For Video file
 ```sh
 $ python3 yolo_video.py -i video_file_name
