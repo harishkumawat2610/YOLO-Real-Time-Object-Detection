@@ -24,6 +24,12 @@ $ git clone https://github.com/pjreddie/darknet
 ```sh
 $ python3 yolo_video.py -i o
 ```
+# If you want to Change confidence and threshold value 
+```sh
+$ python3 yolo_video.py -i o -c 0.6 -t 0.4
+```
+-  -c for confidence
+-  -t for threshold
 # For other Media file and live stream Just run this 
 ```sh
 $ python3 yolo_video.py -i rtsp://192.168.43.102:7878/h264_ulaw.sdp
